@@ -50,7 +50,7 @@ public class UserService {
 		String name = s.nextLine();
 		
 		UserVO user = new UserVO();
-		
+		// 조장 이수아로 하자
 		user.setId(id);
 		user.setPassword(password);
 		user.setName(name);
