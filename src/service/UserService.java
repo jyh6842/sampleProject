@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-import org.xml.sax.HandlerBase;
-
 import dao.UserDao;
 import data.Session;
 import vo.UserVO;
